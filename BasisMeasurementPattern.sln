@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasisMeasurementPattern", "BasisMeasurementPattern.csproj", "{0E975E41-0B41-4A6B-9737-D2F94627394E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E975E41-0B41-4A6B-9737-D2F94627394E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E975E41-0B41-4A6B-9737-D2F94627394E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E975E41-0B41-4A6B-9737-D2F94627394E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E975E41-0B41-4A6B-9737-D2F94627394E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAD8BC24-F4AC-4DD3-A6B0-BA5D7AF060EF}
+	EndGlobalSection
+EndGlobal
